@@ -11,7 +11,7 @@ dependencies {
 	compile group: 'org.webjars', name: 'requirejs-text', version: '2.0.15'
 	compile group: 'org.webjars', name: 'jquery', version: '2.2.3'
 	compile group: 'org.webjars', name: 'ace', version: '1.2.2'
-	compile group: 'org.webjars', name: 'codemirror', version: '5.13.2'
+	compile group: 'org.webjars', name: 'codemirror', version: '5.45.0'
 	providedCompile group: 'org.eclipse.jetty', name: 'jetty-annotations', version: '9.3.+'
 	providedCompile group: 'org.slf4j', name: 'slf4j-log4j12', version: '1.7.+'
 }
